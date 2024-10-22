@@ -16,6 +16,7 @@
             <td><a href="https://doechromium.github.io/search/search">search</a> - A simple search engine for all cached file types</td>
         </tr>
         </table>
+        <h5 align="center">I am competent in web design, and I work mainly on such. I understand </h5>
     <table align="center">
     	<tr>
         	<td>Languages:<td>
@@ -40,8 +41,12 @@
         	<td>█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</td>
         </tr>
     	<tr>
-        	<td></td>
-        	<td></td>
+        	<td>>.5% Java</td>
+        	<td>█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</td>
         </tr>
-    <h6 align="center">obv not affiliated with google lmao</h6>
+    	<tr>
+        	<td>>.5% pHp</td>
+        	<td>█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</td>
+        </tr>
+        <h6 align="center">obv not affiliated with google lmao</h6>
 </div>
