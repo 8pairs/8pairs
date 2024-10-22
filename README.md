@@ -16,11 +16,32 @@
             <td><a href="https://doechromium.github.io/search/search">search</a> - A simple search engine for all cached file types</td>
         </tr>
         </table>
-    <h4 align="left">Languages:</h4>
-    <p align="left"> ~50% HTML:     ██████████░░░░░░░░░░</p>
-    <p align="left"> ~40% CSS:     ████████░░░░░░░░░░░░</p>
-    <p align="left"> ~15% JavaScript:    ████░░░░░░░░░░░░░░░░</p>
-    <p align="left"> >2% jQuery:     ████░░░░░░░░░░░░░░░░</p>
-    <p align="left"> >1% TypeScript:   ████░░░░░░░░░░░░░░░░</p>
+    <table align="center">
+    	<tr>
+        	<td>Languages:<td>
+    	<tr>
+        	<td>~50% HTML</td>
+        	<td>████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░</td>
+        </tr>
+    	<tr>
+        	<td>~30% CSS:</td>
+        	<td>████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</td>
+        </tr>
+    	<tr>
+        	<td>~15% JavaScript</td>
+        	<td>████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</td>
+        </tr>
+    	<tr>
+        	<td>>2% jQuery</td>
+        	<td>█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</td>
+        </tr>
+    	<tr>
+        	<td>>1% TypeScript</td>
+        	<td>█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</td>
+        </tr>
+    	<tr>
+        	<td></td>
+        	<td></td>
+        </tr>
     <h6 align="center">obv not affiliated with google lmao</h6>
 </div>
