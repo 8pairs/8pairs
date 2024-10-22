@@ -15,6 +15,12 @@
             <td><a href="https://doechromium.github.io/">your</a> - A website to give you information based on your computer specifications </td>
             <td><a href="https://doechromium.github.io/search/search">search</a> - A simple search engine for all cached file types</td>
         </tr>
-    </table>
+        </table>
+    <h4 align="left">Languages:</h4>
+    <p align="left"> ~50% HTML:     ██████████░░░░░░░░░░</p>
+    <p align="left"> ~40% CSS:     ████████░░░░░░░░░░░░</p>
+    <p align="left"> ~15% JavaScript:    ████░░░░░░░░░░░░░░░░</p>
+    <p align="left"> >2% jQuery:     ████░░░░░░░░░░░░░░░░</p>
+    <p align="left"> >1% TypeScript:   ████░░░░░░░░░░░░░░░░</p>
     <h6 align="center">obv not affiliated with google lmao</h6>
 </div>
