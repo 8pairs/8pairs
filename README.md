@@ -16,7 +16,7 @@
             <td><a href="https://doechromium.github.io/search/search">search</a> - A simple search engine for all cached file types</td>
         </tr>
         </table>
-        <h5 align="center">I am competent in web design, and I work mainly on such. I understand </h5>
+        <h5 align="center">I am competent in web design, and I work mainly on such</h5>
     <table align="center">
     	<tr>
         	<td>Languages:<td>
