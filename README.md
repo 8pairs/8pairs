@@ -1,6 +1,6 @@
 <div align="center">
     <h3>I'm <a href="https://github.com/DoeChromium">DoeChromium  /  GoogleChromium</a></h3>
-    <h5>Formally, Isaac 
+    <h5>More formally, Isaac 
     <br><br>
     <p align="center">
     <img height="50px" src="https://media1.tenor.com/m/tjKARw838mcAAAAd/cat-blehhh.gif"
@@ -38,14 +38,6 @@
         </tr>
     	<tr>
         	<td>>1% TypeScript</td>
-        	<td>█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</td>
-        </tr>
-    	<tr>
-        	<td>>.5% Java</td>
-        	<td>█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</td>
-        </tr>
-    	<tr>
-        	<td>>.5% pHp</td>
         	<td>█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</td>
         </tr>
         <h6 align="center">obv not affiliated with google lmao</h6>
